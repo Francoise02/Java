@@ -2,7 +2,7 @@
 import java.util.*;
 
 // Declaring the java class
-class Question1_rectangle
+class Rectangle_operations
 {
     // Creating main method
     public static void main(String[] args)
